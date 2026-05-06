@@ -1,7 +1,7 @@
 # 🤖 Smart AI Chatbot
 
 This is a beginner-friendly AI chatbot built using Python.
-🔹 Features
+ 💠Features
 - Personalized user interaction
 - Mood detection (happy, sad, stress)
 - Random responses
